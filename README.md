@@ -1,8 +1,8 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
-**Name:** KAVINAYA V
-**Register Number:** 212225230133
-**Experiment:** Image Handling and Pixel Transformations Using OpenCV
+## Name: KAVINAYA V
+## Register Number: 212225230133
+
 
 ---
 
